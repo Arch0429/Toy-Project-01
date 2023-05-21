@@ -1,0 +1,15 @@
+{
+  "name": "toy-project-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arch0429"
+  },
+  "author": "jsyou",
+  "license": "ISC"
+}
